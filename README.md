@@ -1,8 +1,7 @@
 # PentroS
 
 
-As an infinite sequence of data, mining features in data streams poses multiples challenges which we can summarized into three major ones. Focus on those who has the highest weight in the streams, treat the latter over dynamic and large ammount of incoming data and finally, treat elegently the evolution and the changes of the datas over time. 
-PentroS as an algorithm for Maximally Informative k-Itemsets mining from data streams, overcomes these shortcomings :)
+As an infinite sequence of data, mining features in data streams poses multiples challenges which we can summarized into three major ones. Focus on those who has the highest weight in the streams, treat the latter over dynamic and large ammount of incoming data and finally, treat elegently the evolution and the changes of the datas over time. PentroS as an algorithm for Maximally Informative k-Itemsets mining from data streams, overcomes these shortcomings.
 
 
 ## Requirements

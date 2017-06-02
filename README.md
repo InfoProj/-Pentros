@@ -1,11 +1,15 @@
-# Pentros
-An algorithm for Maximally Informative k-Itemsets mining from data streams
+# PentroS
+
+
+As an infinite sequence of data, mining features in data streams poses multiples challenges which we can summarized into three major ones. Focus on those who has the highest weight in the streams, treat the latter over dynamic and large ammount of incoming data and finally, treat elegently the evolution and the changes of the datas over time. 
+PentroS as an algorithm for Maximally Informative k-Itemsets mining from data streams, overcomes these shortcomings :)
 
 
 ## Requirements
 
 
-PENTROS works with [Apache Spark](http://spark.apache.org/). In order to run PENTROS you must download and install [Apache Spark 1.6.1](http://spark.apache.org/news/spark-1-6-1-released.html).
+PentroS works with [Apache Spark](http://spark.apache.org/). 
+In order to run PentrosS you must download and install [Apache Spark 1.6.1](http://spark.apache.org/news/spark-1-6-1-released.html).
 
 
 
@@ -25,7 +29,7 @@ We used a built-in streaming source of Spark Streaming, fed from two real-life d
 ## Usage
 
 
-To run PENTROS please note : 
+To run PentroS please note : 
 
 1 - Set the data location on the machine in the main class : 
     
